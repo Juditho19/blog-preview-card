@@ -41,9 +41,8 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-![Screenshot 2025-07-03 at 06-49-56 Frontend Mentor Blog preview card](https://github.com/user-attachments/assets/359796fa-1a9d-4788-8bb7-49f8116f13d1)
 
-
+<img width="1349" height="662" alt="Screenshot 2025-07-12 at 10-32-00 Frontend Mentor Blog preview card" src="https://github.com/user-attachments/assets/13ee03db-d427-4366-a7f5-8c222125a0b9" />
 
 
 
